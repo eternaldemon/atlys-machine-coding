@@ -13,7 +13,6 @@ const Login: React.FC<LoginProps> = () => {
 
     return (
         <div className="w-screen h-screen flex flex-col justify-center align-middle">
-            HAHAHAHAHA 
             <LoginModal isOpen={true} logo={true} onClose={() => navigateToHome()} />
         </div>
     )
