@@ -1,9 +1,9 @@
 {
+  "homepage": "https://eternaldemon.github.io/atlys-machine-coding",
   "name": "vitejs-reactjs-boilerplate",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://eternaldemon.github.io/atlys-machine-coding",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
